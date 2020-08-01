@@ -12,3 +12,5 @@ https://aksmith5239.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by Allison Smith
+
+# Run Buddy Inc. 

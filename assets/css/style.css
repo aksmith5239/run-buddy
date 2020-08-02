@@ -49,32 +49,6 @@ header nav ul li a {
     font-size: 1.55vw;
 }
 
-/*footer styles */
-
-footer {
-    background: #fce138;
-    width: 100%;
-    padding: 40px 35px;
-}
-
-footer h2 {
-    display: inline;
-    color: #024e76;
-    font-size: 30px;
-    margin: 0;
-}
-footer div{
-    float: right;
-    line-height: 1.5;
-    text-align: right;
-}
-
-footer a {
-    color: #024e76;
-}
-
-/* Footer Styles End*/
-
 /* General Styles-  these styles are not element specific, but can be used anywhere in the project*/
 section {
     padding: 60px;
@@ -292,3 +266,29 @@ section {
 }
 
 /* Reach Out Styles End */
+/*footer styles */
+
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+footer h2 {
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+footer div{
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color: #024e76;
+}
+
+/* Footer Styles End*/
